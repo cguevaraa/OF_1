@@ -1615,9 +1615,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballPrefab: {fileID: 5894486146557065105, guid: 1ca4539ba26c3a847aaaa6f922bb1e45, type: 3}
-  pivotRigidbody: {fileID: 0}
+  pivotRigidbody: {fileID: 365536503}
   detachDelay: 0.1
-  respawnDelay: 2
+  respawnDelay: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
